@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="549f1e40-85ba-4f2c-8d13-982cceffdee9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/version 0.01/generetion_maps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/arial.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fantasy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sky1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sky3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ray_casting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/effects/button.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/effects/run.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/music/Free Zen Spirit — Zen Spirit Music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/music/Mystic RPG — Epic Fantasy Inn Music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/music/Mystic RPG — Fantasy Music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprite_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/anim/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/barrel/base/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/horse/base/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/horse/base/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/horse/base/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/house/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/merchant/base/merchant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_neyron.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1olfOWKAAulCls40DeYLnjEvmnf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="generetion_maps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pygame_great_travel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\tigri\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/version 0.01" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/version 0.01/generetion_maps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generetion_maps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="549f1e40-85ba-4f2c-8d13-982cceffdee9" name="Default Changelist" comment="" />
+      <created>1613866065316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613866065316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613866145225">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613866145225" />
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom" timestamp="1613869048693">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613869048693" />
+    <state width="1659" height="272" key="GridCell.Tab.0.center" timestamp="1613869048693">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.center/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613869048693" />
+    <state width="1659" height="272" key="GridCell.Tab.0.left" timestamp="1613869048693">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.left/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613869048693" />
+    <state width="1659" height="272" key="GridCell.Tab.0.right" timestamp="1613869048693">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.right/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613869048693" />
+    <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613866766528">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.25.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1613866766528" />
+  </component>
+</project>
